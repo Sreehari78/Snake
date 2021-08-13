@@ -11,4 +11,4 @@ Suppose the snake's body constitutes of 3 blocks of 'square shaped turtles' (hea
 The snake's food keeps randomly appearing in the screen which is implemented using the package random
 
 # Highscore
-The highscore is being written into a .txt file which keep updated once the user breaks the previous highscore and dies. This ensures that the highscore to retain its data even after terminating the game
+The highscore is being written into a .txt file which gets updated once the user breaks the previous highscore and dies. This ensures that the highscore to retain its data even after terminating the game
