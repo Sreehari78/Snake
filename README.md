@@ -1,2 +1,2 @@
 # Snake
-Snake game created using python
+Snake game created using python tkinter
